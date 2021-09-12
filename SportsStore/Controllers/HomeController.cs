@@ -7,11 +7,14 @@ namespace SportsStore.Controllers
 {
     public class HomeController : Controller
     {
-        // private IStoreRepository repository;
+        private IStoreRepository repository;
+
         // public int PageSize = 4;
-        // public HomeController(IStoreRepository repo) {
-        //     repository = repo;
-        // }
+        public HomeController(IStoreRepository repo)
+        {
+            repository = repo;
+        }
+
         public HomeController()
         {
         }
@@ -31,6 +34,6 @@ namespace SportsStore.Controllers
         //                 TotalItems = repository.Products.Count()
         //             }
         //     });
-        public IActionResult Index() => View();
+        public IActionResult Index() => View(repository.Products);
     }
 }
