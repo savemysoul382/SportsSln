@@ -65,7 +65,7 @@ namespace SportsStore.Tests
             // ProductsListViewModel result =
             //     controller.Index(2).ViewData.Model as ProductsListViewModel;
             IEnumerable<Product> result =
-                (controller.Index() as ViewResult).ViewData.Model as
+                (controller.Index(2) as ViewResult).ViewData.Model as
                 IEnumerable<Product>;
 
             // Assert
