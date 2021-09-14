@@ -454,3 +454,7 @@ $RECYCLE.BIN/
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
+SportsStore.Tests/obj/
+SportsStore.Tests/bin/
+SportsStore/obj/
+SportsStore/bin/
