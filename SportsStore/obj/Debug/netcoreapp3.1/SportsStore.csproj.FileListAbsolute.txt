@@ -60,11 +60,6 @@ D:\Projects\.NET Core 3\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\runtimes\w
 D:\Projects\.NET Core 3\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 D:\Projects\.NET Core 3\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 D:\Projects\.NET Core 3\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-D:\Projects\.NET Core 3\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.csproj.AssemblyReference.cache
-D:\Projects\.NET Core 3\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.GeneratedMSBuildEditorConfig.editorconfig
-D:\Projects\.NET Core 3\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.csproj.CoreCompileInputs.cache
-D:\Projects\.NET Core 3\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\scopedcss\bundle\SportsStore.styles.css
-D:\Projects\.NET Core 3\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.genruntimeconfig.cache
 D:\Projects\.NET Core 3\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\libman.json
 D:\Projects\.NET Core 3\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\ProductSummary.cshtml.g.cs
 D:\Projects\.NET Core 3\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\NavigationMenu\Default.cshtml.g.cs
@@ -72,3 +67,7 @@ D:\Projects\.NET Core 3\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Page
 D:\Projects\.NET Core 3\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Pages\_CartLayout.cshtml.g.cs
 D:\Projects\.NET Core 3\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
 D:\Projects\.NET Core 3\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\Projects\.NET Core 3\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\CartSummary\Default.cshtml.g.cs
+D:\Projects\.NET Core 3\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Views\Order\Checkout.cshtml.g.cs
+D:\Projects\.NET Core 3\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Projects\.NET Core 3\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.csprojAssemblyReference.cache
