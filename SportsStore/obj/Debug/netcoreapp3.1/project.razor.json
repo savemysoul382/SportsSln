@@ -12513,23 +12513,6 @@
         }
       },
       {
-        "HashCode": -2087520721,
-        "Kind": "MVC.ViewComponent",
-        "Name": "__Generated__NavigationMenuViewComponentTagHelper",
-        "AssemblyName": "SportsStore",
-        "CaseSensitive": false,
-        "TagMatchingRules": [
-          {
-            "TagName": "vc:navigation-menu"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "ITagHelper",
-          "Common.TypeName": "__Generated__NavigationMenuViewComponentTagHelper",
-          "MVC.ViewComponent.Name": "NavigationMenu"
-        }
-      },
-      {
         "HashCode": -113828252,
         "Kind": "MVC.ViewComponent",
         "Name": "__Generated__CartSummaryViewComponentTagHelper",
@@ -12544,6 +12527,23 @@
           "Runtime.Name": "ITagHelper",
           "Common.TypeName": "__Generated__CartSummaryViewComponentTagHelper",
           "MVC.ViewComponent.Name": "CartSummary"
+        }
+      },
+      {
+        "HashCode": -2087520721,
+        "Kind": "MVC.ViewComponent",
+        "Name": "__Generated__NavigationMenuViewComponentTagHelper",
+        "AssemblyName": "SportsStore",
+        "CaseSensitive": false,
+        "TagMatchingRules": [
+          {
+            "TagName": "vc:navigation-menu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "ITagHelper",
+          "Common.TypeName": "__Generated__NavigationMenuViewComponentTagHelper",
+          "MVC.ViewComponent.Name": "NavigationMenu"
         }
       },
       {
@@ -14574,6 +14574,11 @@
     {
       "FilePath": "d:\\Projects\\.NET Core 3\\SportsSln\\SportsStore\\Views\\Shared\\ProductSummary.cshtml",
       "TargetPath": "Views\\Shared\\ProductSummary.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Projects\\.NET Core 3\\SportsSln\\SportsStore\\Pages\\Completed.cshtml",
+      "TargetPath": "Pages\\Completed.cshtml",
       "FileKind": "mvc"
     }
   ],
